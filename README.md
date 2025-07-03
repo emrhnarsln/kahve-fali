@@ -4,18 +4,6 @@ Flutter ile geliştirilen bu uygulama, kullanıcıların ruh haline göre eğlen
 
 ---
 
-## 📱 Özellikler
-
-- 🎭 Ruh hali seçimine göre özel fal yorumları
-- 🔄 Fincan ters çevirme animasyonu (flip effect)
-- 💬 Anlamlı ve kategorize edilebilir fal mesajları (aşk, para, kariyer vb.)
-- ☁️ Arka planda kahve dumanı efekti
-- 📆 Tarih gösterimi ve geleneksel kahve sözü
-- 🎨 Şeffaf, estetik fincan görselleri ve sade arayüz
-- 🌗 Gelişmiş özellikler için altyapı hazır (fal geçmişi, paylaşım, fal temaları)
-
----
-
 lib/
 ├── main.dart
 ├── screens/
